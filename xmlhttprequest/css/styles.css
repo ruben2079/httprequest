@@ -1,0 +1,24 @@
+#content {
+	width: 900px;
+	margin: 0 auto;
+}
+table {
+    font-family: arial, helvetica, sans-serif;
+	border-collapse: collapse;
+	border: 1px solid #ccc;
+}
+table tr td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fffae2;
+    font-size: 14px;
+	cursor: pointer;
+}
+table tr td:hover {
+	background-color: #96d8b3;
+}
+th {
+    white-space: nowrap;
+    background-color: #d8d096;
+    padding: 5px;
+}
